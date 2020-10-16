@@ -4,9 +4,9 @@
 
 ```json
 {
-    "language": "Golang",
-    "tools": ["Docker", "Kubernetes"],
+    "language":     "Golang",
+    "tools":        ["Docker", "Kubernetes"],
     "architecture": ["microservices"],
-    "cloud": ["Google cloud platform"]
+    "cloud":        ["Google cloud platform"]
 }
 ```
