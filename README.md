@@ -1,3 +1,3 @@
-# Hello, I'm Wasin
+# Hello, I'm tOnkowzl
 
-- I am a programmer in SWAT Team and TOTO is team lead.
+- I am a programmer in Thailand
